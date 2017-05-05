@@ -1,0 +1,9 @@
+C:\Users\jleongonzalez\Documents\visual studio 2012\Projects\SeleniumFramework\SeleniumFramework\obj\Debug\SeleniumFramework.csprojResolveAssemblyReference.cache
+C:\Users\jleongonzalez\Documents\visual studio 2012\Projects\SeleniumFramework\SeleniumFramework\bin\Debug\SeleniumFramework.dll
+C:\Users\jleongonzalez\Documents\visual studio 2012\Projects\SeleniumFramework\SeleniumFramework\bin\Debug\SeleniumFramework.pdb
+C:\Users\jleongonzalez\Documents\visual studio 2012\Projects\SeleniumFramework\SeleniumFramework\bin\Debug\CodeBasedTestingLibrary.dll
+C:\Users\jleongonzalez\Documents\visual studio 2012\Projects\SeleniumFramework\SeleniumFramework\obj\Debug\SeleniumFramework.dll
+C:\Users\jleongonzalez\Documents\visual studio 2012\Projects\SeleniumFramework\SeleniumFramework\obj\Debug\SeleniumFramework.pdb
+C:\Users\jleongonzalez\Documents\visual studio 2012\Projects\SeleniumFramework\SeleniumFramework\bin\Debug\log4net.dll
+C:\Users\jleongonzalez\Documents\visual studio 2012\Projects\SeleniumFramework\SeleniumFramework\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\jleongonzalez\Documents\visual studio 2012\Projects\SeleniumFramework\SeleniumFramework\bin\Debug\Selenium.WebDriverBackedSelenium.xml

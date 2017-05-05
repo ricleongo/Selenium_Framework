@@ -1,0 +1,52 @@
+{
+  "username": "RecruiterDesktop",
+  "vm_lockdown": false,
+  "new_email": null,
+  "last_name": null,
+  "parent": "CBPlatformIntegrity",
+  "subaccount_limit": null,
+  "creation_time": 1398272216,
+  "user_type": "subaccount",
+  "monthly_minutes": {
+    "manual": "infinite",
+    "automated": "infinite"
+  },
+  "prevent_emails": [
+    "marketing"
+  ],
+  "is_admin": null,
+  "manual_minutes": "infinite",
+  "can_run_manual": true,
+  "concurrency_limit": {
+    "mac": 200,
+    "scout": 200,
+    "overall": 200,
+    "real_device": 0
+  },
+  "is_public": false,
+  "id": "RecruiterDesktop",
+  "access_key": "89474d84-3db7-4424-9eeb-39b5c095573c",
+  "first_name": null,
+  "require_full_name": false,
+  "verified": true,
+  "name": "Recruiter Desktop",
+  "subscribed": true,
+  "title": null,
+  "terminating_subscription": false,
+  "is_sso": false,
+  "entity_type": "individual",
+  "tunnel_concurrency_limit": 30,
+  "allow_integrations_page": true,
+  "last_login": 1493350772,
+  "ancestor_concurrency_limit": {
+    "mac": 200,
+    "scout": 200,
+    "overall": 200,
+    "real_device": 0
+  },
+  "ancestor_allows_subaccounts": true,
+  "domain": null,
+  "ancestor": "CBPlatformIntegrity",
+  "minutes": "infinite",
+  "email": "RecruiterDesktopMonitoring@CareerBuilder.Com"
+}
